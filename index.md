@@ -2,122 +2,169 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Raul Gomes
 
-[Link to another page](./another-page.html).
+### Junior Software Developer · Full-Stack Development · Cybersecurity
 
-There should be whitespace between paragraphs.
+Portugal · [GitHub](https://github.com/radnunes) · [LinkedIn](#)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> Building practical software while developing deeper knowledge of systems, Linux and cybersecurity.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## About Me
 
-## Header 2
+I'm a junior software developer focused on **backend and full-stack development**, with experience building applications using `.NET`, `Angular`, `React`, `TypeScript`, `Python`, `PHP`, and SQL.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I completed a **Level 5 programming qualification** and have continued developing through personal projects and hands-on experimentation.
 
-### Header 3
+My background also includes professional experience in industrial and structural welding, giving me a practical, problem-solving-oriented approach to technical work.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Tech Stack
 
-#### Header 4
+| Area | Technologies |
+|:---|:---|
+| Languages | `C#`, `Java`, `TypeScript`, `JavaScript`, `Python`, `PHP`, `SQL` |
+| Backend | `.NET`, `ASP.NET Core`, `Spring Boot`, REST APIs |
+| Frontend | `Angular`, `React`, `Vite`, `Tailwind CSS` |
+| Databases | `PostgreSQL`, `SQL Server`, `SQLite` |
+| Tools | `Git`, `Docker`, `Podman`, `Linux` |
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## Featured Projects
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Chesser
 
-###### Header 6
+**Full-stack chess application**
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+`.NET` · `Angular` · `SQL` · `REST API`
 
-### There's a horizontal rule below this.
+A full-stack application exploring backend architecture, database design, API development and frontend integration.
 
-* * *
+- .NET backend
+- Angular frontend
+- REST API
+- Database integration
+- Full-stack architecture
 
-### Here is an unordered list:
+[View on GitHub](https://github.com/radnunes/chesser)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+### SynchPy
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Python file synchronisation tool**
 
-### And a nested list:
+`Python` · `File I/O` · `Automation`
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+A practical Python project focused on filesystem interaction and automation.
 
-### Small image
+[View on GitHub](https://github.com/radnunes/synchpy)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+### BookAPI
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**REST API**
 
+`C#` · `.NET` · `REST`
 
-### Definition lists can be used with HTML syntax.
+Backend-focused project exploring API design, routing, CRUD operations and data persistence.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[View on GitHub](https://github.com/radnunes/bookAPI)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## Development
+
+I prefer **building projects over simply following tutorials**.
+
+My development process generally involves:
+
+1. Define the problem
+2. Design a solution
+3. Build it
+4. Break it
+5. Investigate why it broke
+6. Improve the implementation
+
+This approach has led me to work across:
+
+- Backend development
+- Frontend development
+  - Angular
+  - React
+- APIs
+- Databases
+- Automation
+- Browser extensions
+- Game development
+- Linux tooling
+
+---
+
+## Cybersecurity
+
+While software development is my primary career direction, I'm also developing practical cybersecurity knowledge.
+
+Current areas of interest include:
+
+- Linux
+- Networking
+- TCP/IP
+- HTTP
+- Web security
+- Authentication
+- Vulnerability analysis
+- Security fundamentals
+
+---
+
+## Experience
+
+### Welding Technician
+
+Professional experience in **industrial and structural welding**, including carbon-steel fabrication and repair.
+
+This work required:
+
+- Technical precision
+- Problem solving
+- Working from specifications
+- Equipment operation
+- Quality control
+- Troubleshooting
+
+---
+
+## Education
+
+### Level 5 Programming Qualification
+
+Completed technical/professional programming training covering:
+
+- Programming
+- Object-oriented programming
+- Databases
+- Web development
+- Algorithms
+- Software development
+
+---
+
+## Currently Learning
+
+`Java` · `Spring Boot` · `Angular` · `Linux` · `Networking` · `Cybersecurity`
+
+---
+
+## Contact
+
+[GitHub](https://github.com/radnunes) · [LinkedIn](#)
+
+---
+
+> Build things. Break things. Understand why they broke. Build them better.

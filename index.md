@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Raúl David Nunes Gomes
+# Raúl Gomes
 
 ### Junior Developer — Backend & Full-Stack
 

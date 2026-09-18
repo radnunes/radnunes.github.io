@@ -172,13 +172,6 @@ Areas included:
 
 ---
 
-## Current Focus
-
-I'm currently expanding my knowledge in:
-
-`Linux` · `Networking` · `Cybersecurity` · `Backend Development` · `Java`
-
----
 
 ## Recommendations
 
